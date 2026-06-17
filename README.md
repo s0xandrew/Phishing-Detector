@@ -4,9 +4,6 @@ A Python-based heuristic engine that analyzes URLs for phishing
 indicators including brand spoofing, suspicious TLDs, IP-based URLs,
 keyword analysis, and subdomain abuse.
 
-Built as part of my self-taught cybersecurity sprint for
-IIT Kanpur B.Cyber application (Wadhwani School of AI and Intelligent Systems).
-
 ---
 
 ## ⚡ Features
